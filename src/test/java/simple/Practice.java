@@ -1,5 +1,5 @@
 package simple;
-//123456
+
 //changes made in branch1
 public class Practice {
 
